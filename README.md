@@ -1,7 +1,6 @@
 <h3 align="center">Bem-vindo(a) ao meu perfil!</h3> 
 <div align="center">
   <a href="https://www.linkedin.com/in/luiznmeneses/"><img src="https://img.shields.io/badge/LinkedIn-%23323330?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-  <a href="mailto:luiz.meneses@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://github.com/LuizManoelR"><img src="https://img.shields.io/badge/GITHUB-323330?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
