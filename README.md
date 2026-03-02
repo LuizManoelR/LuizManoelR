@@ -1,4 +1,3 @@
-<img width="2057" height="872" alt="image" src="https://github.com/user-attachments/assets/f4a1b4fc-77a4-409c-aa92-cfc1a3de9147" />
 <h3 align="center">Bem-vindo(a) ao meu perfil!</h3> 
 <div align="center">
   <a href="https://www.linkedin.com/in/luiznmeneses/"><img src="https://img.shields.io/badge/LinkedIn-%23323330?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
