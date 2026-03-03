@@ -28,13 +28,14 @@ Atualmente exploro diferentes áreas da computação para fortalecer meus fundam
 ## 🧠 Skills
 
 <div align="center">
+  <img loading="lazy" src="https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img loading="lazy" src="https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img loading="lazy" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" />
   <img loading="lazy" src="https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=white" />
   <img loading="lazy" src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img loading="lazy" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" />
   <img loading="lazy" src="https://img.shields.io/badge/Linux-%23323330?style=for-the-badge&logo=linux&logoColor=white" />
-  <img loading="lazy" src="https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img loading="lazy" src="https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img loading="lazy" src="https://img.shields.io/badge/Verilog-323330?style=for-the-badge&logoColor=white" />
+  <img loading="lazy" src="https://img.shields.io/badge/SpringBoot-323330?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 
 ## ✉️ Contato
