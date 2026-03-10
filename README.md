@@ -22,7 +22,6 @@ Atualmente exploro diferentes áreas da computação para fortalecer meus fundam
 
 - Idiomas: 🇧🇷 (Nativo) 🇺🇸 (Básico)
 - Interesses: Arquitetura de Computadores • Back-end • Sistemas
-- Perfil: Curioso e analítico
 <br>
 
 ## 🧠 Skills
